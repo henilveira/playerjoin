@@ -1,0 +1,4 @@
+name: PlayerJoin
+version: '1.0-SNAPSHOT'
+main: com.henrique.playerjoin.Main
+api-version: 1.19
