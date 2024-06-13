@@ -1,2 +1,2 @@
 # playerjoin
-Player join Event made in Java Bukkit libary
+Plugin de Minecraft usando Java e a biblioteca BUKKIT
